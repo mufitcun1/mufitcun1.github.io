@@ -1,8 +1,13 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.mufitcun1.twa",
-        "sha256_cert_fingerprints": ["FC:9A:73:89:0F:66:68:19:B7:00:DF:05:D7:E1:8E:B8:31:D7:BF:41:F7:40:88:2E:7F:A7:B9:BF:45:46:17:1A"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mufitcun1.twa",
+      "sha256_cert_fingerprints": [
+        "EE:DC:57:97:88:CE:FF:7B:DE:37:99:C5:BE:9D:FF:88:0B:79:94:D1:65:8F:5C:75:59:3E:16:38:F2:6C:F8:17",
+        "C7:46:D4:6E:EB:7A:8D:20:B2:A1:41:02:CB:9F:1B:DA:33:57:FC:04:2F:7B:DE:0B:B0:B4:29:CD:E1:9A:44:A0"
+      ]
+    }
+  }
+]
